@@ -2,7 +2,7 @@ using System.Net;
 using System.Net.Sockets;
 using Entities;
 
-namespace Core;
+namespace Core.Chats;
 
 public abstract class ChatBase
 {
